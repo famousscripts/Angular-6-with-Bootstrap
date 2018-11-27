@@ -1,10 +1,13 @@
-# Angular5Example
+## Angular 6 with Bootstrap 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
-and posted on blog [Angular5 example step by step](http://www.devglan.com/angular/building-angular-application)
-## Development server
+Step1. Run this command in your root directory through node CMD
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+npm install bootstrap font-awesome
+
+Step 2: Then in src/styles.css add this line on top of page :
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
 
 ## Code scaffolding
 
