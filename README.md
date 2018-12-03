@@ -2,7 +2,7 @@
 
 Step1. Run this command in your root directory through node CMD
 
-npm install bootstrap font-awesome
+>npm install bootstrap font-awesome
 
 Step 2: Then in src/styles.css add this line on top of page :
 
