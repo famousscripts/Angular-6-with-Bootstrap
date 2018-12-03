@@ -7,6 +7,7 @@ npm install bootstrap font-awesome
 Step 2: Then in src/styles.css add this line on top of page :
 
 @import "~bootstrap/dist/css/bootstrap.css";
+
 @import "~font-awesome/css/font-awesome.css";
 
 ## Code scaffolding
